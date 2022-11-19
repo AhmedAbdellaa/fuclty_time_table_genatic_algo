@@ -15,5 +15,5 @@
     **5- insert offspring into the population** : insert or replace created and edited schedules into population
     **6- repeat** : repeat from 1 to 5 until fitness = 1 (no conflict in schedule)
 
-    ## result table screenshot
-    ![result-image](./images/result-Screenshot.png)
+## result table screenshot
+![result-image](./images/result-Screenshot.png)
